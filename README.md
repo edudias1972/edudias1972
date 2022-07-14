@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="edudias1972-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="edudias1972-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="edudias1972-pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo.php?fbid=4030900703644961&set=pb.100001752125821.-2207520000..&type=3">
+  <img align="right" alt="edudias1972-pic" height="150" style="border-radius:50px;" src="[https://www.facebook.com/photo.php?fbid=4030900703644961&set=pb.100001752125821.-2207520000..&type=3]">
 </div>
