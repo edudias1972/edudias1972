@@ -1,8 +1,8 @@
 - 👋 Vamo que vamo! 
 - Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
 - Estudando programação WEB - Front End e Back End na TRYBE.
-- Técnico em Informática 
-- Técnico em Redes de Computadores
+- Técnico em Informática - Alcides Maya
+- Técnico em Redes de Computadores - Alcides Maya 
 
 <!---
 edudias1972/edudias1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
