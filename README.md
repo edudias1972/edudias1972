@@ -1,4 +1,4 @@
-- 👋 Vamo que vamo! 
+- 👋 Vamo que vamo!   <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
 - Estudando programação WEB - Front End e Back End na TRYBE.
 - Técnico em Informática - Alcides Maya
