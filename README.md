@@ -1,4 +1,4 @@
-- <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+- <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Desenvolvedor Full Stack!
 - 👋 Vamo que vamo!   
 - Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
 - Estudando programação WEB - Front End e Back End na TRYBE.
