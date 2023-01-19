@@ -9,6 +9,11 @@
 edudias1972/edudias1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div>
+  ## 🔭 Hard-Skills
+<div align="center">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="edudias1972" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="edudias1972-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -36,11 +41,7 @@ You can click the Preview link to take a look at your changes.
           
 </div>
 
-<div>
-  ## 🔭 Hard-Skills
-<div align="center">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
-</div>
+>
 
   - #### Frontend
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
