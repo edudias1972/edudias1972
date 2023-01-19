@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   ## 🔭 Hard-Skills
 <div align="center">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+  <img align="right" src="[https://octodex.github.com/images/collabocats.jpg]" height="200px" />
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="edudias1972" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
