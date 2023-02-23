@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
     ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
     ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![NGINX](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![NGINX](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=ngnix&logoColor=white)
     
 
  - #### Test
