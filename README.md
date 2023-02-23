@@ -8,9 +8,9 @@
    </div>
 
 <div align="center">
-
+ <img align="right" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack!)]
-   - <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
    </div>
 
 - 👋 Vamo que vamo!   
