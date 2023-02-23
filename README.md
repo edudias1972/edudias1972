@@ -17,15 +17,14 @@
 
    ## 🌟 Github Stats
    
- <p align="center">
-<div align="center">
- <p align="center">
-<div align="center">
-  <a href="https://github.com/edudias1972">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edudias1972&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" / >
-    <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudias1972&layout=compact&langs_count=7&theme=dracula"/>
-    <div>
-   <p>    
+## Profile stats 📊
+
+<p align="center"><img src="https://github-readme-stats-edudias1972.vercel.app/api?username=edudias1972&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
+
+<p align="center"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=edudias1972&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Eduardo - Maurício - Dias :: Top Langs" /></p>
+
+<br>
+  
 
           
 <!---
