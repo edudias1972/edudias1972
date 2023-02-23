@@ -19,10 +19,15 @@
    
 ## Profile stats 📊
 
-<p align="center"><img src="https://github-readme-stats-edudias1972.vercel.app/api?username=edudias1972&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Eduardo-Maurício-Dias = :: Top Langs" /></p>
+## ➤ Languages:
+<a href="https://github.com/edudias1972">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edudias1972&layout=compact&theme=radical" />
+</a>
 
-<p align="center"><img src="https://github-readme-stats-edudias1972.app/api/top-langs/?username=edudias1972&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Eduardo - Maurício - Dias :: Top Langs" /></p>
-<br>
+## ➤ My stats:
+ <a href="https://github.com/edudias1972">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=edudias1972&theme=radical&show_icons=true" />
+</a>
   
 
           
