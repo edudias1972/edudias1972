@@ -2,14 +2,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+Dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
    </div>
    
    ## 🌟 Github Stats
    
  <p align="center">
 <div align="center">
-
+ <p align="center">
+<div align="center">
+  <a href="https://github.com/edudias1972">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edudias1972&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" / >
+    <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudias1972&layout=compact&langs_count=7&theme=dracula"/>
+    <div>
+   <p>
+  
 
 
 - <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Desenvolvedor Full Stack!
@@ -19,6 +26,7 @@
 - Técnico em Informática - Alcides Maya
 - Técnico em Redes de Computadores - Alcides Maya 
 
+       </p>      
 <!---
 edudias1972/edudias1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
