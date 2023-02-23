@@ -1,3 +1,17 @@
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
+   </div>
+   
+   ## 🌟 Github Stats
+   
+ <p align="center">
+<div align="center">
+
+
+
 - <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Desenvolvedor Full Stack!
 - 👋 Vamo que vamo!   
 - Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
