@@ -7,8 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+Dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
    </div>
 
-
+<div align="center">
 - <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Desenvolvedor Full Stack!
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack)]([https://git.io/typing-svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg))
+   </div>
+
 - 👋 Vamo que vamo!   
 - Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
 - Estudando programação WEB - Front End e Back End na TRYBE.
