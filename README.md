@@ -9,11 +9,14 @@
    </div>
 
 - 👋 Vamo que vamo!   
-- Desenvolvedor WEB -  Eduardo Maurício Dias - @edudias1972
-- Estudando programação WEB - Front End e Back End Full Stack na Trybe.
-- Técnico em Informática - Alcides Maya
-- Técnico em Redes de Computadores - Alcides Maya 
-- Programador PHP / MYSQL / HTML5 / CSS3 - Alcides Maya   
+- 
+Sou um desenvolvedor web altamente motivado! Estou sempre em busca de novos desafios e aprendizados na área de programação. 
+Atualmente, estou estudando programação web full stack, tanto em Front End quanto em Back End, na incrível escola de tecnologia Trybe.
+
+Além disso, tenho experiência técnica em Informática e Redes de Computadores, o que me permite ter uma visão ampla e completa das necessidades dos projetos em que estou envolvido. Como programador, tenho habilidades sólidas em PHP, MYSQL, HTML5 e CSS3, e estou constantemente aprimorando minhas habilidades para entregar os melhores resultados para meus clientes e equipe.
+
+Se você está procurando um desenvolvedor web apaixonado e experiente, entre em contato comigo!
+Estou sempre buscando oportunidades de crescimento e novos desafios em projetos incríveis.  
 
    ## 🌟 Github Stats
 
