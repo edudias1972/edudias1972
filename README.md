@@ -16,8 +16,6 @@
 - Programador PHP / MYSQL / HTML5 / CSS3 - Alcides Maya   
 
    ## 🌟 Github Stats
-   
-## Profile stats 📊
 
 ## ➤ Languages:
 <a href="https://github.com/edudias1972">
