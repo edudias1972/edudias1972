@@ -6,27 +6,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+Dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
-   </div>
+   </div>   
 
-- 👋 Vamo que vamo!   
-- 
 Sou um desenvolvedor web altamente motivado! Estou sempre em busca de novos desafios e aprendizados na área de programação. 
 Atualmente, estou estudando programação web full stack, tanto em Front End quanto em Back End, na incrível escola de tecnologia Trybe.
 
 Além disso, tenho experiência técnica em Informática e Redes de Computadores, o que me permite ter uma visão ampla e completa das necessidades dos projetos em que estou envolvido. Como programador, tenho habilidades sólidas em PHP, MYSQL, HTML5 e CSS3, e estou constantemente aprimorando minhas habilidades para entregar os melhores resultados para meus clientes e equipe.
 
 Se você está procurando um desenvolvedor web apaixonado e experiente, entre em contato comigo!
-Estou sempre buscando oportunidades de crescimento e novos desafios em projetos incríveis.  
+ 
 
    ## 🌟 Github Stats
 
 ## ➤ Languages:
 <a href="https://github.com/edudias1972">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edudias1972&layout=compact&theme=radical" />
-</a>
+
 
 ## ➤ My stats:
- <a href="https://github.com/edudias1972">
+<a href="https://github.com/edudias1972">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=edudias1972&theme=radical&show_icons=true" />
 </a>
   
