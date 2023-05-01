@@ -34,7 +34,6 @@ Se você está procurando um desenvolvedor web apaixonado e experiente, entre em
 edudias1972/edudias1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br> <br>
 <div>
 <div align="center">
   <img align="right" src="[![image](https://user-images.githubusercontent.com/80340034/213583407-cbdb4a46-6290-4f48-9dec-3f4c06d3e285.png) height="200px" />
@@ -64,10 +63,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="edudias1972-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="edudias1972-ubuntu-linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
           
-</div>
-
->  
-    
+</div>    
 ## 📧 Contact me on:
   
 <a href = "mailto:edudias1972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5-(51)99842-0321)<a href="https://www.linkedin.com/in/eduardo-mauricio-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
