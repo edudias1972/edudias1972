@@ -15,7 +15,7 @@ Além disso, tenho experiência técnica em Informática e Redes de Computadores
 
 Se você está procurando um desenvolvedor web apaixonado e experiente, entre em contato comigo!
  
-
+<div align="center">
    ## 🌟 Github Stats
 
 ## ➤ Languages:
@@ -26,8 +26,7 @@ Se você está procurando um desenvolvedor web apaixonado e experiente, entre em
 ## ➤ My stats:
 <a href="https://github.com/edudias1972">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=edudias1972&theme=radical&show_icons=true" />
-</a>
-  
+</a>  
 
           
 <!---
@@ -38,32 +37,23 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img align="right" src="[![image](https://user-images.githubusercontent.com/80340034/213583407-cbdb4a46-6290-4f48-9dec-3f4c06d3e285.png) height="200px" />
   </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="edudias1972" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="edudias1972-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
- 
-  <img align="center" alt="edudias1972-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
-  <img align="center" alt="edudias1972-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  
-  <img align="center" alt="edudias1972-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  
-  <img align="center" alt="edudias1972-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  
-  <img align="center" alt="edudias1972" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="edudias1972-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="edudias1972-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="edudias1972-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="edudias1972-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="edudias1972-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="edudias1972-ubuntu-linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align="center" alt="edudias1972-ubuntu-linux" height="30" width="40"  src="https://www.flaticon.com/br/icones-gratis/github" title="github">Github</a>      
-</div>  
+  &nbsp;&nbsp;
+
+<div id='lojc' align="center">
+
+| Languages  | Frameworks and Technologies | Tools |            
+|---|---|---|
+|<div id='lojc' align="center"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/testing-library.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/docker.png" width="30" height="35"/>&nbsp;&nbsp;<img src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/NPM.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg" width="30" height="30"/></div>|
+
+  <details>
+    <summary><h4>All My Technical Skills</h4></summary>
+<div id='lojc' align="center">
+
+| Languages  | Frameworks | Technologies | Tools | 
+|---|---|---|---|
+|<div id='lojc' align="center"><span>TypeScript🔸JavaScript🔸SQL🔸Python</span></div>|<div id='lojc' align="center"><span>React🔸NodeJS🔸Express🔸Jest🔸React Native</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
+  </details>
+
 <br> 
 ## 📧 Contact me on:
   
