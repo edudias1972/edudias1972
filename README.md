@@ -8,12 +8,11 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
    </div>   
 
-Sou um desenvolvedor web altamente motivado! Estou sempre em busca de novos desafios e aprendizados na área de programação. 
-Atualmente, estou estudando programação web full stack, tanto em Front End quanto em Back End, na incrível escola de tecnologia Trybe.
+Sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e aprendizados na programação. Estou estudando programação web full stack na escola de tecnologia Trybe, aprimorando minhas habilidades tanto no Front End quanto no Back End.
 
-Além disso, tenho experiência técnica em Informática e Redes de Computadores, o que me permite ter uma visão ampla e completa das necessidades dos projetos em que estou envolvido. Como programador, tenho habilidades sólidas em PHP, MYSQL, HTML5 e CSS3, e estou constantemente aprimorando minhas habilidades para entregar os melhores resultados para meus clientes e equipe.
+Com experiência em Informática e Redes de Computadores, tenho uma visão ampla das necessidades dos projetos. Minhas habilidades sólidas incluem PHP, MySQL, HTML5 e CSS3, e estou constantemente aprimorando-as para entregar os melhores resultados aos clientes e à equipe.
 
-Se você está procurando um desenvolvedor web apaixonado e experiente, entre em contato comigo!
+Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos desafiadores e contribuir com habilidades em HTML, JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, MySQL e GitHub para o sucesso da equipe.                                                             Vamos criar algo incrível juntos!
  
 <div align="center">
    ## 🌟 Github Stats
