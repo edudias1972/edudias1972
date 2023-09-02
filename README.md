@@ -12,7 +12,7 @@ Sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e
 
 Com experiência em Informática e Redes de Computadores, tenho uma visão ampla das necessidades dos projetos. Minhas habilidades sólidas incluem PHP, MySQL, HTML5 e CSS3, e estou constantemente aprimorando-as para entregar os melhores resultados aos clientes e à equipe.
 
-Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos desafiadores e contribuir com habilidades em HTML, JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, MySQL e GitHub para o sucesso da equipe.                                                             Vamos criar algo incrível juntos!
+Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos desafiadores e contribuir com habilidades em Java , Framework Spring Boot, HTML, JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, MySQL e GitHub para o sucesso da equipe. Vamos criar algo incrível juntos!
  
 <div align="center">
    ## 🌟 Github Stats
