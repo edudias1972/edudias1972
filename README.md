@@ -8,11 +8,13 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
    </div>   
 
-Sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e aprendizados na programação. Estou estudando programação web full stack na escola de tecnologia Trybe, aprimorando minhas habilidades tanto no Front End quanto no Back End.
+Olá, sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e aprendizados na programação. Tenho uma paixão por criar soluções de alto desempenho que agreguem valor aos projetos em que trabalho. Atualmente, estou estudando programação web full stack na escola de tecnologia Trybe, aprimorando minhas habilidades tanto no Front End quanto no Back End.
 
-Com experiência em Informática e Redes de Computadores, tenho uma visão ampla das necessidades dos projetos. Minhas habilidades sólidas incluem PHP, MySQL, HTML5 e CSS3, e estou constantemente aprimorando-as para entregar os melhores resultados aos clientes e à equipe.
+Com minha experiência em Informática e Redes de Computadores, tenho uma visão ampla das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja. Minhas habilidades sólidas incluem PHP, MySQL, HTML5, CSS3, Java, Framework Spring Boot, HTML, JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, MySQL e GitHub.
 
-Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos desafiadores e contribuir com habilidades em Java , Framework Spring Boot, HTML, JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, MySQL e GitHub para o sucesso da equipe. Vamos criar algo incrível juntos!
+Sou um desenvolvedor comprometido com a qualidade, sempre buscando entregar resultados excepcionais. Tenho um perfil analítico que me permite desvendar e solucionar problemas complexos, garantindo que cada projeto atenda aos mais altos padrões.
+
+Além disso, valorizo o trabalho em equipe e a comunicação eficaz. Estou sempre pronto para colaborar em projetos desafiadores e contribuir com meu conhecimento e experiência para o sucesso da equipe. Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos incríveis e criar algo extraordinário juntos!
  
 <div align="center">
    ## 🌟 Github Stats
