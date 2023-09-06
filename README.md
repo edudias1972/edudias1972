@@ -28,7 +28,7 @@ Além disso, valorizo o trabalho em equipe e a comunicação eficaz. Estou sempr
 <a href="https://github.com/edudias1972">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=edudias1972&theme=radical&show_icons=true" />
 </a>  
-
+<img align="center" src="https://www.flaticon.com/br/icone-gratis/java_226777" />
           
 <!---
 edudias1972/edudias1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
