@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   &nbsp;&nbsp;
 | Languages  | Frameworks and Technologies | Tools |            
-|---|---|---|
+
 <div id='lojc' align="center"> 
    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/> &nbsp;&nbsp;
@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 |
 &nbsp;&nbsp;
+ | Frameworks and Technologies |
 <div id='lojc' align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/> &nbsp;&nbsp; 
@@ -73,7 +74,7 @@ You can click the Preview link to take a look at your changes.
  &nbsp;&nbsp;
 </div>
 &nbsp;&nbsp;
- |
+ | Tools |  
 <div id='lojc' align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" height="30"/>&nbsp;&nbsp; 
