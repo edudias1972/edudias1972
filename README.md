@@ -67,6 +67,7 @@ Frameworks and Technologies :
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="30" height="30"/>  &nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="30" height="30"/>  &nbsp;&nbsp; 
  
 </div>
