@@ -41,9 +41,24 @@ You can click the Preview link to take a look at your changes.
 
 <div id='lojc' align="center">
 
-| Languages  | Frameworks and Technologies | Tools |            
-|---|---|---|
-|<div id='lojc' align="center"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/></div>
+| Languages | Frameworks and Technologies | Tools |
+| --- | --- | --- |
+| ![Language 1](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png) | ![Framework 1](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg) | ![Tool 1](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) |
+| ![Language 2](https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png) | ![Framework 2](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg) | ![Tool 2](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg) |
+| ![Language 3](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png) | ![Framework 3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg) | ![Tool 3](https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg) |
+| ![Language 4](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg) | ![Framework 4](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg) | ![Tool 4](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg) |
+| ![Language 5](https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg) | ![Framework 5](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) | ![Tool 5](https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg) |
+| ![Language 6](https://img.icons8.com/color/344/docker.png) | ![Framework 6](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg) | ![Tool 6](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg) |
+| ![Language 7](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg) | ![Framework 7](https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png) | ![Tool 7](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg) |
+| ![Language 8](https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Light.svg) | ![Framework 8](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg) | ![Tool 8](https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg) |
+| ![Language 9](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg) | ![Framework 9](https://img.icons8.com/color/344/bash.png) | ![Tool 9](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) |
+| ![Language 10](https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg) | | |
+
+
+|<div id='lojc' align="center">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/></div>
 |<div id='lojc' align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;
@@ -65,10 +80,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="[https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg](https://www.flaticon.com/br/icone-gratis/java_226777)" width="30" height="30"/></div>|
+<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;
+</div>|
 
   <details>
     <summary><h4>All My Technical Skills</h4></summary>
