@@ -66,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="[https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg](https://www.flaticon.com/br/icone-gratis/java_226777)" width="30" height="30"/></div>|
 
