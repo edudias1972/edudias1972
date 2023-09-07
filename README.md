@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 
 <div id='lojc' align="center">
 
-| Languages | 
-| ---- |
+| Languages | Frameworks and Technologies | Tools |
+|-----------|-----------------------------|-------|
 |  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/> &nbsp;&nbsp;
    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/> &nbsp;&nbsp; 
@@ -55,8 +55,8 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/> &nbsp;&nbsp;
 
-| Frameworks and Technologies | 
-| ---- |
+
+| ------ | ------------------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/> &nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" width="30" height="30"/> &nbsp;&nbsp;
@@ -72,13 +72,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30" height="30"/> &nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/> &nbsp;&nbsp;
 
-| Tools |
-| ---- |
+
+| ---- |---------------------------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" height="30"/>&nbsp;&nbsp; 
   <img src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/> &nbsp;&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
-|
 
 </div>
   <details>
