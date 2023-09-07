@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  &nbsp;&nbsp;   &nbsp;&nbsp;
 Languages :  
-   &nbsp;&nbsp;
+  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" height="30"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="30" height="30"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/> 
  
 </div>
