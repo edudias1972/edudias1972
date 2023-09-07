@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
   <img align="right" src="[![image](https://user-images.githubusercontent.com/80340034/213583407-cbdb4a46-6290-4f48-9dec-3f4c06d3e285.png) height="200px" />
   </div>
   &nbsp;&nbsp;
-| Languages  | Frameworks and Technologies | Tools |            
+ 
+Languages          
 
 <div id='lojc' align="center"> 
    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp; 
@@ -52,10 +53,11 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/> &nbsp;&nbsp;
+ &nbsp;&nbsp;
 </div>
 |
 &nbsp;&nbsp;
- | Frameworks and Technologies |
+ Frameworks and Technologies 
 <div id='lojc' align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/> &nbsp;&nbsp; 
@@ -73,8 +75,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/> &nbsp;&nbsp;
  &nbsp;&nbsp;
 </div>
+
 &nbsp;&nbsp;
- | Tools |  
+Tools  
 <div id='lojc' align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" height="30"/>&nbsp;&nbsp; 
