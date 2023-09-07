@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/> &nbsp;&nbsp;
 
 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/> &nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" width="30" height="30"/> &nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>&nbsp;&nbsp; 
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/> &nbsp;&nbsp;
 
 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" height="30"/>&nbsp;&nbsp; 
   <img src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/> &nbsp;&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
