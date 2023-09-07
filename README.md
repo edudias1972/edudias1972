@@ -71,6 +71,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/> &nbsp;&nbsp;
  &nbsp;&nbsp;
 </div>
+&nbsp;&nbsp;
 <div id='lojc' align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" height="30"/>&nbsp;&nbsp; 
@@ -78,6 +79,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp; 
 
 </div>
+&nbsp;&nbsp;
   <details>
     <summary><h4>All My Technical Skills</h4></summary>
 <div id='lojc' align="center">
