@@ -69,9 +69,10 @@ Frameworks and Technologies :
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="30" height="30"/>  &nbsp;&nbsp; 
  
- </div> 
- <div align="center"> 
-&nbsp;&nbsp;   &nbsp;&nbsp;
+</div>
+   &nbsp;&nbsp;  &nbsp;&nbsp;
+ <div align="center">
+    &nbsp;&nbsp;
   Tools :
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/>  &nbsp;&nbsp;
