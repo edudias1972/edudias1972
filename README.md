@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp;
@@ -56,7 +56,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.icons8.com/color/344/docker.png" width="30" height="35"/>&nbsp;&nbsp;
 <img src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/NPM.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="[https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg](https://www.flaticon.com/br/icone-gratis/java_226777)" width="30" height="30"/></div>|
+<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/NPM.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="[https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg](https://www.flaticon.com/br/icone-gratis/java_226777)" width="30" height="30"/></div>|
 
   <details>
     <summary><h4>All My Technical Skills</h4></summary>
