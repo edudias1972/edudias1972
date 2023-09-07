@@ -51,6 +51,7 @@ Languages :
 Frameworks and Technologies : 
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>  &nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30"/>  &nbsp;&nbsp;
