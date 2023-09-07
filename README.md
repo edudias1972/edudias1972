@@ -54,8 +54,9 @@ Languages
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/> &nbsp;&nbsp;
  &nbsp;&nbsp;
+  &nbsp;&nbsp;
 </div>
-|
+
 &nbsp;&nbsp;
  Frameworks and Technologies 
 <div id='lojc' align="center">
@@ -74,6 +75,7 @@ Languages
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30" height="30"/> &nbsp;&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/> &nbsp;&nbsp;
  &nbsp;&nbsp;
+  &nbsp;&nbsp;
 </div>
 
 &nbsp;&nbsp;
