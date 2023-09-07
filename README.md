@@ -59,7 +59,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Light.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30" height="30"/></div>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="30" height="30"/></div>
 |<div id='lojc' align="center">
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30"/>&nbsp;&nbsp;
