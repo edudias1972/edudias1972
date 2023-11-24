@@ -10,7 +10,7 @@
 
 Olá, sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e aprendizados na programação. Tenho paixão por criar soluções de alto desempenho que agreguem valor aos projetos em que trabalho. Atualmente, estou estudando programação web full stack na escola de tecnologia Trybe, aprimorando minhas habilidades tanto no Front End quanto no Back End.
 
-Com minha experiência em Informática e Redes de Computadores, adquiro uma visão abrangente das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja. Minhas habilidades incluem PHP, MySQL, HTML5, Backend com Kotlin e Java (utilizando Spring Boot, JPA, Hibernate e RESTful APIs), além de conhecimento em tecnologias como JavaScript, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, e MySQL.
+Com minha experiência em Informática e Redes de Computadores, adquiro uma visão abrangente das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja. Minhas habilidades incluem PHP, MySQL, HTML5, Backend com Kotlin e Java (utilizando Spring Boot, JPA, Hibernate e RESTful APIs), além de conhecimento em tecnologias como JavaScript, Angular, React, Node.js, TypeScript, CSS, Redux, Docker, Sequelize, e MySQL.
 
 Sou um desenvolvedor comprometido com a qualidade, sempre em busca de entregar resultados excepcionais. Possuo um perfil analítico que me permite desvendar e solucionar problemas complexos, garantindo que cada projeto atenda aos mais altos padrões.
 
