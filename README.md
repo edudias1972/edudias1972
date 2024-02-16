@@ -14,24 +14,23 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
    </div>   
 
-Olá!
+Olá! Sou Desenvolvedor Web Full Stack 
 
-Sou um desenvolvedor web full stack altamente motivado e apaixonado por criar soluções inovadoras e de alto desempenho.
+Experiência:
 
-Recentemente, concluí o curso de Formação em Desenvolvimento Web Full Stack na Trybe, onde aprimorei minhas habilidades em:
+    Trybe - Formação em Desenvolvimento Web Full Stack
+    Expertise em Front-End (HTML5, CSS, JavaScript, Angular, React, Redux) e 
+    Back-End (PHP, MySQL, Kotlin, Java, Spring Boot, JPA, Hibernate, RESTful APIs)
+    AWS, Docker, Sequelize, MySQL
 
-    Front End: HTML5, CSS, JavaScript, Angular, React, Redux
-    Back End: PHP, MySQL, Kotlin, Java (Spring Boot, JPA, Hibernate, RESTful APIs)
-    Outras tecnologias: AWS, Docker, Sequelize, MySQL
+Habilidades:
 
-Com minha experiência em Informática e Redes de Computadores, adquiro uma visão abrangente das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja.
+    Visão abrangente das necessidades dos projetos
+    Qualidade, entrega de resultados excepcionais
+    Perfil analítico, resolução de problemas complexos
+    Trabalho em equipe e comunicação eficaz
 
-Sou um desenvolvedor comprometido com a qualidade, sempre buscando entregar resultados excepcionais. Possuo um perfil analítico que me permite desvendar e solucionar problemas complexos, garantindo que cada projeto atenda aos mais altos padrões.
-
-Além disso, valorizo o trabalho em equipe e a comunicação eficaz. Estou sempre pronto para colaborar em projetos desafiadores e contribuir com meu conhecimento e experiência para o sucesso da equipe.
-
-Se você procura um desenvolvedor web full stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos incríveis e criar algo extraordinário juntos!
- 
+Entusiasmado em fazer parte de projetos incríveis e criar algo extraordinário!
 <div align="center">
    ## 🌟 Github Stats
 
