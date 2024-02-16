@@ -15,14 +15,15 @@
    </div>   
 <div align="center">
 Olá! Sou Desenvolvedor Web Full Stack 
-
+<div align="center">
 Experiência:
 
     Trybe - Formação em Desenvolvimento Web Full Stack
     Expertise em Front-End (HTML5, CSS, JavaScript, Angular, React, Redux) e 
     Back-End (PHP, MySQL, Kotlin, Java, Spring Boot, JPA, Hibernate, RESTful APIs)
     AWS, Docker, Sequelize, MySQL
-
+    
+<div align="center">
 Habilidades:
 
     Visão abrangente das necessidades dos projetos
