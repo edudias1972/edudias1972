@@ -13,13 +13,23 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
    </div>   
 
-Olá, sou um desenvolvedor web altamente motivado, sempre em busca de novos desafios e aprendizados na programação. Tenho paixão por criar soluções de alto desempenho que agreguem valor aos projetos em que trabalho. Atualmente, estou estudando programação web full stack na escola de tecnologia Trybe, aprimorando minhas habilidades tanto no Front End quanto no Back End.
+Olá!
 
-Com minha experiência em Informática e Redes de Computadores, adquiro uma visão abrangente das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja. Minhas habilidades incluem PHP, MySQL, HTML5, Backend com Kotlin e Java (utilizando Spring Boot, JPA, Hibernate e RESTful APIs), além de conhecimento em tecnologias como JavaScript, Angular, React, Node.js, TypeScript, CSS, Redux, AWS , Docker, Sequelize, e MySQL.
+Sou um desenvolvedor web full stack altamente motivado e apaixonado por criar soluções inovadoras e de alto desempenho.
 
-Sou um desenvolvedor comprometido com a qualidade, sempre em busca de entregar resultados excepcionais. Possuo um perfil analítico que me permite desvendar e solucionar problemas complexos, garantindo que cada projeto atenda aos mais altos padrões.
+Recentemente, concluí o curso de Formação em Desenvolvimento Web Full Stack na Trybe, onde aprimorei minhas habilidades em:
 
-Além disso, valorizo o trabalho em equipe e a comunicação eficaz. Estou sempre pronto para colaborar em projetos desafiadores e contribuir com meu conhecimento e experiência para o sucesso da equipe. Se você procura um desenvolvedor web Full Stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos incríveis e criar algo extraordinário juntos!
+    Front End: HTML5, CSS, JavaScript, Angular, React, Redux
+    Back End: PHP, MySQL, Kotlin, Java (Spring Boot, JPA, Hibernate, RESTful APIs)
+    Outras tecnologias: AWS, Docker, Sequelize, MySQL
+
+Com minha experiência em Informática e Redes de Computadores, adquiro uma visão abrangente das necessidades dos projetos e estou pronto para enfrentar qualquer desafio que surja.
+
+Sou um desenvolvedor comprometido com a qualidade, sempre buscando entregar resultados excepcionais. Possuo um perfil analítico que me permite desvendar e solucionar problemas complexos, garantindo que cada projeto atenda aos mais altos padrões.
+
+Além disso, valorizo o trabalho em equipe e a comunicação eficaz. Estou sempre pronto para colaborar em projetos desafiadores e contribuir com meu conhecimento e experiência para o sucesso da equipe.
+
+Se você procura um desenvolvedor web full stack experiente e apaixonado, fique à vontade para entrar em contato. Estou entusiasmado em fazer parte de projetos incríveis e criar algo extraordinário juntos!
  
 <div align="center">
    ## 🌟 Github Stats
