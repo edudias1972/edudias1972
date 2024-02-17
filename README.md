@@ -1,16 +1,5 @@
 <div align="center">
 
-![edudiasgithub](https://github.com/edudias1972/edudias1972/assets/80340034/a4b94119-ccf7-443d-9ec0-e8b1100440f2)
-
-
-
-
-
-  
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Eduardo+Maurício+Dias;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
