@@ -46,13 +46,13 @@ You can click the Preview link to take a look at your changes.
   </div>
   &nbsp;&nbsp;
 <div align="center">
- &nbsp;&nbsp;   &nbsp;&nbsp;
+ &nbsp;&nbsp;  
 Languages :  
   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" height="30"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="30" height="30"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" height="30"/> 
  
 </div>
-   &nbsp;&nbsp;  &nbsp;&nbsp;
+   &nbsp;&nbsp; 
  <div align="center">
     &nbsp;&nbsp;
 Frameworks and Technologies : 
@@ -79,7 +79,7 @@ Frameworks and Technologies :
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="30" height="30"/>  &nbsp;&nbsp; 
  
 </div>
-   &nbsp;&nbsp;  &nbsp;&nbsp;
+   &nbsp;  
  <div align="center">
     &nbsp;&nbsp;
   Tools :
@@ -87,7 +87,7 @@ Frameworks and Technologies :
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/>  &nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/> &nbsp;&nbsp; 
 </div>
-&nbsp;&nbsp;
+&nbsp;
 
   <details>
     <summary><h4>All My Technical Skills</h4></summary>
@@ -98,10 +98,10 @@ Frameworks and Technologies :
 |<div id='lojc' align="center"><span> 🔸Java 🔸Java Spring 🔸Golang  🔸PHP 🔸JavaScript  🔸TypeScript  🔸SQL  🔸MySQl 🔸PostgreSQL 🔸Python </span></div>|<div id='lojc' align="center"><span> 🔸Angular🔸React🔸NodeJS🔸Express🔸Jest🔸React Native</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸AWS🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
   </details>
 
-<br> 
+&nbsp;
 ## 📧 Contact me on:
   
 <a href = "mailto:edudias1972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5-(51)99842-0321)<a href="https://www.linkedin.com/in/eduardo-mauricio-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
+  &nbsp;&nbsp;
    
 <div>
