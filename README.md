@@ -106,7 +106,7 @@ Frameworks and Technologies :
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span> 🔸Java 🔸Java Spring 🔸Golang  🔸PHP 🔸JavaScript  🔸TypeScript  🔸SQL  🔸MySQl 🔸PostgreSQL 🔸Python </span></div>|<div id='lojc' align="center"><span>React🔸NodeJS🔸Express🔸Jest🔸React Native</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
+|<div id='lojc' align="center"><span> 🔸Java 🔸Java Spring 🔸Golang  🔸PHP 🔸JavaScript  🔸TypeScript  🔸SQL  🔸MySQl 🔸PostgreSQL 🔸Python </span></div>|<div id='lojc' align="center"><span> 🔸Angular🔸React🔸NodeJS🔸Express🔸Jest🔸React Native</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸AWS🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
   </details>
 
 <br> 
