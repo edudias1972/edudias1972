@@ -1,6 +1,8 @@
 <div align="center">
 
-  ![github](https://github.com/edudias1972/edudias1972/assets/80340034/a19d8e79-9640-45ce-9e12-d4504d40fd86)
+![edudiasgithub](https://github.com/edudias1972/edudias1972/assets/80340034/a4b94119-ccf7-443d-9ec0-e8b1100440f2)
+
+
 
 
 
