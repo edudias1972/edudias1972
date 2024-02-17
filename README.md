@@ -81,7 +81,7 @@ Frameworks and Technologies :
 </div>
    &nbsp;  
  <div align="center">
-    &nbsp;&nbsp;
+    &nbsp;
   Tools :
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30"/>  &nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/>  &nbsp;&nbsp;
@@ -98,7 +98,7 @@ Frameworks and Technologies :
 |<div id='lojc' align="center"><span> 🔸Java 🔸Java Spring 🔸Golang  🔸PHP 🔸JavaScript  🔸TypeScript  🔸SQL  🔸MySQl 🔸PostgreSQL 🔸Python </span></div>|<div id='lojc' align="center"><span> 🔸Angular🔸React🔸NodeJS🔸Express🔸Jest🔸React Native</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸AWS🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸WordPress🔸Shopify🔸MySQL Workbench</span></div>|
   </details>
 
-&nbsp;
+
 ## 📧 Contact me on:
   
 <a href = "mailto:edudias1972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5-(51)99842-0321)<a href="https://www.linkedin.com/in/eduardo-mauricio-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
