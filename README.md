@@ -16,13 +16,11 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Full+Stack!)](https://git.io/typing-svg)
    </div>   
 <div align="center">
-Olá! Sou Desenvolvedor Web Full Stack 
-
 Experiência:
 
 <div align="center">
     Trybe - Formação em Desenvolvimento Web Full Stack
-    Expertise em Front-End (HTML5, CSS, JavaScript, Angular, React, Redux) e 
+    Expertise em Front-End (UXDesingner, HTML5, CSS, JavaScript, Angular, React, Redux) e 
     Back-End (PHP, MySQL, Kotlin, Java, Spring Boot, JPA, Hibernate, RESTful APIs)
     AWS, Docker, Sequelize, MySQL
     
